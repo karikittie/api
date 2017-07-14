@@ -54,3 +54,7 @@ Via the API (using [cURL](https://curl.haxx.se/)):
     -d '{"username": "example_user", "email": "user@example.com", "password": "foo"}' \
     -H "Content-Type: application/json" \
     http://localhost:5000/api/v1/account/register
+    
+## Week 3 report
+    We have a working prototype at http://web.cecs.pdx.edu/~arredon/worldzer0/worldzer0.php 
+    We lost a team member, so no front end progress. Some backend python code exists
